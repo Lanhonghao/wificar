@@ -1,0 +1,9 @@
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\bin\Debug\WifRobot.exe
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\bin\Debug\WifRobot.pdb
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\obj\x86\Debug\zhinengqiche.csprojResolveAssemblyReference.cache
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\obj\x86\Debug\zhinengqiche.csproj.GenerateResource.Cache
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\Lance（lab228）\Desktop\wifirobt\WifRobot\WifRobot\obj\x86\Debug\WifRobot.pdb
